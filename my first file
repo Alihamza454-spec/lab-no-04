@@ -6,8 +6,8 @@
         int number2 = Convert.ToInt32(Console.ReadLine());
 
         // Calculate the sum
-        int sum = number1 + number2;
+        int sub= number1 - number2;
 
         // Display the result
-        Console.WriteLine($"The sum of {number1} and {number2} is: {sum}");
+        Console.WriteLine($"The sub of {number1} and {number2} is: {sub}");
     
