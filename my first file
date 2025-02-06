@@ -5,9 +5,9 @@
         Console.Write("Enter the second integer: ");
         int number2 = Convert.ToInt32(Console.ReadLine());
 
-        // Calculate the sum
-        int sum = number1 + number2;
+        // Calculate the multipaction
+        int mul = number1 * number2;
 
         // Display the result
-        Console.WriteLine($"The sum of {number1} and {number2} is: {sum}");
+        Console.WriteLine($"The mul of {number1} and {number2} is: {mul}");
     
